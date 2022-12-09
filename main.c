@@ -7,8 +7,9 @@ int main() {
 	printf("Enter integer A and integer B from keyboard \n"):
 	scanf("%d",&a);
 	scanf("%d",&b);
-	printd("The sum of A and B is %d", a+b);
-	printd("The substraction of A and B is %d", a-b);
+	printf("The sum of A and B is %d", a+b);
+	printf("The substraction of A and B is %d", a-b);
+	printf("The multiply of A and B is %d", a*b);
 
 
 }
