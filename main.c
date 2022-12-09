@@ -2,7 +2,7 @@
 #include "std.h"
 
 int main() {
-	
+	//программа является учебной
 	int a,b;
 	printf("Enter integer A and integer B from keyboard \n"):
 	scanf("%d",&a);
