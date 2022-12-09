@@ -8,5 +8,7 @@ int main() {
 	scanf("%d",&a);
 	scanf("%d",&b);
 	printd("The sum of A and B is %d", a+b);
+	printd("The substraction of A and B is %d", a-b);
+
 
 }
