@@ -12,6 +12,7 @@ int main() {
 	printf("The multiply of A and B is %d", a*b);
 	printf("The delenie of A and B is %d", a/b);
 	///
+///
 
 
 
