@@ -7,4 +7,6 @@ int main() {
 	printf("Enter integer A and integer B from keyboard \n"):
 	scanf("%d",&a);
 	scanf("%d",&b);
+	printd("The sum of A and B is %d", a+b);
+
 }
