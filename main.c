@@ -10,7 +10,7 @@ int main() {
 	printf("The sum of A and B is %d", a+b);
 	printf("The substraction of A and B is %d", a-b);
 	printf("The multiply of A and B is %d", a*b);
-	printf("The delenie of A and B is %d", a/b);
+	printf("The delenie of A and B is %d", a/b - b);
 	///
 ///
 
